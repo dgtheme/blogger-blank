@@ -21,8 +21,12 @@ Template ini bukan sekadar alat — tapi ajakan untuk:
 
 ## 🧰 Cara Pakai
 1. Fork atau download repo ini
-2. Upload file XML ke Blogger > Tema > Pulihkan
-3. Modifikasi sesuai kebutuhan (layout, warna, komponen)
+2. Register di [blogger.com][https:blogger.com]
+3. Pilih tema :: saran >:: Contempo atau Simple
+4. Hapus semua template bawaan : ctrl + A > del
+5. Copas file unduhan :: save. 
+6. Modifikasi sesuai kebutuhan (layout, warna, komponen)
+7. Save.
 
 ## 🙌 Kontribusi
 Silakan fork, pull request, atau modifikasi sesuka hati.  
