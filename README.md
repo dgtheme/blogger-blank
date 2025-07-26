@@ -21,7 +21,8 @@ Template ini bukan sekadar alat — tapi ajakan untuk:
 
 ## 🧰 Cara Pakai
 1. Fork atau download repo ini
-2. Register di [blogger.com](https:blogger.com)
+2. Untuk menggunakan template ini, silakan daftar dulu di Blogger:
+👉 [Daftar di Blogger.com](https://www.blogger.com)
 3. Pilih tema :: saran >:: Contempo atau Simple
 4. Hapus semua template bawaan : ctrl + A > del
 5. Copas file unduhan :: save. 
